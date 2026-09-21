@@ -1,0 +1,6 @@
+{
+  "name": "GoldRisk",
+  "description": "GoldRisk v1.0.0 - Precision XAUUSD Risk & Lot Size Calculator with comprehensive formulas, execution guide, and broker specification verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
